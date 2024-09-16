@@ -32,3 +32,4 @@ typechain-types
 
 # Hardhat files
 cache
+node_modules

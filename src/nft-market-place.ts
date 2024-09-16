@@ -59,6 +59,9 @@ export function handleItemListed(event: ItemListedEvent): void {
    itemListed.nftAddress = event.params.nftAddress
    activeItem.nftAddress=event.params.nftAddress
 
+   
+   activeItem.buyer = Address.fromString("0x0000000000000000000000000000000000000000")
+
    activeItem.save()
    itemListed.save()
 }
