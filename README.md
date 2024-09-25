@@ -14,7 +14,10 @@ The Graph is a decentralized protocol for indexing and querying data from blockc
 
 ##Output
 
+![Screenshot 2024-09-16 192454](https://github.com/user-attachments/assets/8d183783-d350-4fd8-b846-77156c1ab646)
+
+
+
 ![Screenshot 2024-09-16 192454](ht![Screenshot 2024-09-16 192421](https://github.com/user-attachments/assets/1b0b3d38-f22b-4429-910e-bd6e9a46de7e)
 
 
-![Screenshot 2024-09-16 192421](https://github.com/user-attachments/assets/dafe0c03-4688-404f-8f4d-3c4530c0c56a)
